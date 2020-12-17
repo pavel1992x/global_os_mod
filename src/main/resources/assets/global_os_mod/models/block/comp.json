@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "global_os_mod:blocks/comp_block",
+    "up": "global_os_mod:blocks/comp_block",
+    "north": "global_os_mod:blocks/comp_d",
+    "east": "global_os_mod:blocks/comp_block",
+    "south": "global_os_mod:blocks/comp_block",
+    "west": "global_os_mod:blocks/comp_block",
+    "particle": "global_os_mod:blocks/comp_block"
+  }
+}

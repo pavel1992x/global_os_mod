@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "global_os_mod:block/comp"
+    }
+  }
+}

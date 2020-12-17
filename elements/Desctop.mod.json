@@ -1,0 +1,26 @@
+{
+  "_fv": 13,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 296,
+    "height": 219,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "ÈÍÒÅĞÔÅÉÑ ÂÛÄÀ×È",
+          "width": 105,
+          "height": 20,
+          "name": "ÈÍÒÅĞÔÅÉÑ ÂÛÄÀ×È",
+          "x": 69,
+          "y": 17
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Desctop",
+      "type": "gui",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "desctop"
+    },
+    {
+      "name": "Console",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "console",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Consoleint",
+      "type": "gui",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "consoleint"
+    },
+    {
+      "name": "Comp",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "comp"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.global_os_mod.comp": "центральный компьютер"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "global_os_mod",
+    "modName": "global_os_mod",
+    "version": "1.0.0",
+    "author": "теомир, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "os_mod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
